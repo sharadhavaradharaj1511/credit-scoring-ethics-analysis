@@ -26,4 +26,4 @@ Analyzed ethical concerns in credit scoring systems, focusing on fairness, trans
 Conducted ethics analysis, applied ethical frameworks, interpreted regulatory considerations, and developed recommendations for responsible data practices.
 
 ## Project File
-View the uploaded project presentation in this repository.
+📄 [Open Project Report PDF](https://raw.githubusercontent.com/sharadhavaradharaj1511/credit-scoring-ethics-analysis/main/Credit_Scoring_Ethics_Analysis.pptx.pdf)
